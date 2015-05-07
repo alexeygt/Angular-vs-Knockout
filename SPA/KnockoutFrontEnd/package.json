@@ -24,5 +24,8 @@
   },
   "scripts": {
     "postinstall": "bower install"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
   }
 }
